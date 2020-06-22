@@ -55,7 +55,7 @@
 #endif
 
 #ifdef HAVE_X11
-#include "input/include/xfree86_keycodes.h"
+#include "include/xfree86_keycodes.h"
 #endif
 
 #ifdef HAVE_DINPUT
